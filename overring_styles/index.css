@@ -1,0 +1,32 @@
+body{
+    color:red;
+
+}
+h1{
+    color: blue;
+}
+.description{
+    color: green;
+}
+#short-note{
+    color: cyan;
+}
+a:link{
+    background-color: lightgreen;
+    padding: 20px;
+    font-style: italic;
+    text-decoration: none;
+}
+a:hover{
+    color:#0000ff;
+    background-color: hotpink;
+    text-decoration: underline;
+}
+a:visited{
+    color: green;
+    background-color: cyan;
+
+}
+#sum,.summary, p {
+    color: yellow;
+}
